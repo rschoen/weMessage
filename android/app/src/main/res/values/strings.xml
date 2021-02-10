@@ -41,7 +41,7 @@
     <string name="action_remove_participant">Remove Participant</string>
     <string name="action_rename_group">Rename Group</string>
     <string name="add_to_contact">Add to Contact</string>
-    <string name="app_name">weMessage</string>
+    <string name="app_name">ryMessage</string>
     <string name="attachment_receive_failure_generic">An attachment was unable to be delivered to you.</string>
     <string name="attachment_receive_failure_size">An attachment was unable to be delivered to you because the file was too large.</string>
     <string name="attachment_send_failure_generic">One of the attachments could not be sent.</string>
@@ -67,7 +67,7 @@
     <string name="connection_error_authentication_message">An error occurred while authenticating the login information. \n\nPlease restart your app or weServer instance.</string>
     <string name="connection_error_client_disconnect_message">You have disconnected from the weServer.</string>
     <string name="connection_error_force_disconnect_message">This device has been forcefully disconnected by the weServer.</string>
-    <string name="connection_error_incorrect_version_message">weMessage could not connect because the server is running on a different version.</string>
+    <string name="connection_error_incorrect_version_message">ryMessage could not connect because the server is running on a different version.</string>
     <string name="connection_error_invalid_login_message">The username or password entered is not correct. Please try again.</string>
     <string name="connection_error_server_closed_message">The weServer has shut down and closed the connection.</string>
     <string name="connection_error_server_side_message">A server-side error caused the connection to be lost.</string>
@@ -80,7 +80,7 @@
     <string name="contact_sync_fail_message">An error occurred while performing a Contact Sync. If you synced with your computer, please check your weServer logs for issues.</string>
     <string name="contact_sync_fail_offline">You cannot Contact Sync with your Mac while in %1$s! Connect to your weServer in order to do this.</string>
     <string name="contact_sync_success">Contact Sync Success</string>
-    <string name="contact_sync_success_message">Your contacts have successfully been imported to your weMessage Contact List.</string>
+    <string name="contact_sync_success_message">Your contacts have successfully been imported to your ryMessage Contact List.</string>
     <string name="contact_update_error">An error occurred while updating contact information.</string>
     <string name="conversation_load_failure">The messages for that conversation could not be loaded due to an internal error.</string>
     <string name="copy_message_attachments">You cannot copy attachments to the clipboard.</string>
@@ -88,7 +88,7 @@
     <string name="copy_message_success_single">Message copied to clipboard</string>
     <string name="create_chat_minimum">You must enter in an email or phone number to send this message to.</string>
     <string name="create_contact">Create New Contact</string>
-    <string name="default_group_name">weMessage Group</string>
+    <string name="default_group_name">ryMessage Group</string>
     <string name="delete_audio_recording">Delete\nVoice Message</string>
     <string name="delete_camera_attachment">Delete\nAttachment</string>
     <string name="delete_handle_message">This contact may be connected to your chats and messages. \n\nIf you delete it, you will also be deleting any messages or chats that this contact is in.</string>
@@ -115,7 +115,7 @@
     <string name="login_error_alert_content">An error occurred while connecting to the weServer.</string>
     <string name="login_error_alert_title">Connection Error</string>
     <string name="login_failover_ip">Failover IP Address</string>
-    <string name="login_failover_ip_details">A Failover IP Address is the IP address weMessage will fallback on if your first IP address is unable to connect to your weServer (for example, if you have both a Public and Private IP address).
+    <string name="login_failover_ip_details">A Failover IP Address is the IP address ryMessage will fallback on if your first IP address is unable to connect to your weServer (for example, if you have both a Public and Private IP address).
         \n\nIf you do not have multiple IP addresses, this can be left blank.</string>
     <string name="login_password">Password</string>
     <string name="login_text">Please enter your login details. Your email and password should match those set on your weServer.</string>
@@ -143,14 +143,14 @@
     <string name="no_accounts_found_server_warning">Your weServer could not find any messages associated with your login. \n\nIf you are not receiving any messages, check your weServer logs to be sure you entered the right e-mail address.</string>
     <string name="no_attachments_found_chat">No attachments have been sent to this chat.</string>
     <string name="no_attachments_found_contact">No attachments have been sent to this contact.</string>
-    <string name="no_audio_record_permission">weMessage does not have permission to record audio. \n\nPlease grant it permission in order to send voice messages.</string>
-    <string name="no_camera_permission">weMessage does not have permission to access the camera. \n\nPlease grant it permission in order to use the Camera.</string>
+    <string name="no_audio_record_permission">ryMessage does not have permission to record audio. \n\nPlease grant it permission in order to send voice messages.</string>
+    <string name="no_camera_permission">ryMessage does not have permission to access the camera. \n\nPlease grant it permission in order to use the Camera.</string>
     <string name="no_conversations_message">You currently have no messages. Click the New Message button to start a new conversation.</string>
     <string name="no_email">Please enter an email address to sign in with!</string>
     <string name="no_ip">Please enter the IP address of the weServer.</string>
     <string name="no_media_found">No media was found on this device.</string>
-    <string name="no_media_permission">weMessage does not have permission to access media storage.\n\nPlease grant it permission in order to be able to send attachments.</string>
-    <string name="no_media_write_permission">weMessage does not have permission to write to your storage.\n\nPlease grant it permission in order save attachments.</string>
+    <string name="no_media_permission">ryMessage does not have permission to access media storage.\n\nPlease grant it permission in order to be able to send attachments.</string>
+    <string name="no_media_write_permission">ryMessage does not have permission to write to your storage.\n\nPlease grant it permission in order save attachments.</string>
     <string name="no_password">Please enter a password to sign in with!</string>
     <string name="no_phone">Please enter a phone number.</string>
     <string name="notification_attachments">%1$s Attachments</string>
@@ -175,8 +175,8 @@
     <string name="password_too_short">The password is too short. Make sure it is %1$d characters long!</string>
     <string name="permissions_error_title">Permissions Error</string>
     <string name="phone_number_invalid">The number you entered is not a valid phone number.</string>
-    <string name="phone_number_not_detected">weMessage could not get your phone number. Since weMessage is your default messaging app, you must enter in your number in order for it to work.</string>
-    <string name="phone_number_not_detected_settings">You have the option to change your phone number since weMessage could not detect it manually and it is your default messaging app.</string>
+    <string name="phone_number_not_detected">ryMessage could not get your phone number. Since ryMessage is your default messaging app, you must enter in your number in order for it to work.</string>
+    <string name="phone_number_not_detected_settings">You have the option to change your phone number since ryMessage could not detect it manually and it is your default messaging app.</string>
     <string name="play_audio_attachment_error">An error occurred while trying to playback audio.</string>
     <string name="play_video_attachment_error">An error occurred while trying to playback this video.</string>
     <string name="playback_error_title">Playback Error</string>
@@ -191,18 +191,18 @@
     <string name="send_as_sms">Send as SMS</string>
     <string name="send_attachment_error">An unknown error occurred while trying to send an attachment.</string>
     <string name="send_message_error">An error occurred while trying to send a message.</string>
-    <string name="send_message_sms_not_default">You cannot send an SMS message if weMessage is not your default messaging app.</string>
+    <string name="send_message_sms_not_default">You cannot send an SMS message if ryMessage is not your default messaging app.</string>
     <string name="send_message_sms_unsupported_attachments">Currently, you can only send pictures in an SMS message. \n\nVoice and video attachments will be added in the future.</string>
     <string name="set_as_primary">Set As Primary</string>
-    <string name="set_default_sms_is_default_deny_permission">weMessage cannot be your messaging app without the required permissions. \n\nPlease go into your Settings and grant weMessage any disabled permissions or change your default messaging app.</string>
-    <string name="set_default_sms_is_default_no_permissions">weMessage is your default messaging app but it does not have the right permissions. \n\nIn order to use weMessage, please grant it the permissions it asks for or change your default messaging app.</string>
-    <string name="set_default_sms_not_chosen">You did not choose weMessage as your default messaging app. If this was a mistake, then repeat the process.</string>
-    <string name="set_default_sms_permission_failed">Could not set weMessage as your messaging app because some of the permissions it needs were denied.</string>
-    <string name="set_default_sms_prompt">weMessage supports normal texting (SMS and MMS). If you want weMessage to be your default messaging app, click Continue. Otherwise, click Cancel, and SMS Mode will be disabled.</string>
-    <string name="set_default_sms_rationale">In order to make weMessage your default messaging app, you must grant it all of the permissions it asks for.</string>
-    <string name="set_default_sms_write_settings">weMessage will also need your permission to access Settings in order to be able to send messages over mobile data. \n\nPress OK in order to allow this.</string>
+    <string name="set_default_sms_is_default_deny_permission">ryMessage cannot be your messaging app without the required permissions. \n\nPlease go into your Settings and grant ryMessage any disabled permissions or change your default messaging app.</string>
+    <string name="set_default_sms_is_default_no_permissions">ryMessage is your default messaging app but it does not have the right permissions. \n\nIn order to use ryMessage, please grant it the permissions it asks for or change your default messaging app.</string>
+    <string name="set_default_sms_not_chosen">You did not choose ryMessage as your default messaging app. If this was a mistake, then repeat the process.</string>
+    <string name="set_default_sms_permission_failed">Could not set ryMessage as your messaging app because some of the permissions it needs were denied.</string>
+    <string name="set_default_sms_prompt">ryMessage supports normal texting (SMS and MMS). If you want ryMessage to be your default messaging app, click Continue. Otherwise, click Cancel, and SMS Mode will be disabled.</string>
+    <string name="set_default_sms_rationale">In order to make ryMessage your default messaging app, you must grant it all of the permissions it asks for.</string>
+    <string name="set_default_sms_write_settings">ryMessage will also need your permission to access Settings in order to be able to send messages over mobile data. \n\nPress OK in order to allow this.</string>
     <string name="setup_process">Login Help</string>
-    <string name="setup_process_disclaimer"><![CDATA[<b>Important:</b>]]> If you are having trouble setting up the weMessage\'s iMessage functionality or run into problems connecting to your weServer, please visit the setup page on our website for more help:\n\n <![CDATA[<a href="https://wemessageapp.com/setup"><b>https://wemessageapp.com/setup</b></a>]]></string>
+    <string name="setup_process_disclaimer"><![CDATA[<b>Important:</b>]]> If you are having trouble setting up the ryMessage\'s iMessage functionality or run into problems connecting to your weServer, please visit the setup page on our website for more help:\n\n <![CDATA[<a href="https://wemessageapp.com/setup"><b>https://wemessageapp.com/setup</b></a>]]></string>
     <string name="settings_version">Version: %1$s</string>
     <string name="sign_in">Sign In</string>
     <string name="sign_out">Sign Out</string>
@@ -217,9 +217,9 @@
     <string name="switch_account_action">Switch Account</string>
     <string name="switch_accounts">Switch Accounts</string>
     <string name="sync_contacts">Sync Contacts</string>
-    <string name="sync_contacts_android_message">Contact Sync will import the contacts from the Contact List on your phone. \n\nPlease make sure you give weMessage permission to read your contacts if it asks for it.</string>
-    <string name="sync_contacts_android_permission_denied">Could not perform Contact Sync because weMessage does not have permission to read your contacts.</string>
-    <string name="sync_contacts_mac_message">Contact Sync will transfer the contacts on your computer to your weMessage Contacts List.
+    <string name="sync_contacts_android_message">Contact Sync will import the contacts from the Contact List on your phone. \n\nPlease make sure you give ryMessage permission to read your contacts if it asks for it.</string>
+    <string name="sync_contacts_android_permission_denied">Could not perform Contact Sync because ryMessage does not have permission to read your contacts.</string>
+    <string name="sync_contacts_mac_message">Contact Sync will transfer the contacts on your computer to your ryMessage Contacts List.
         \n\nThis process will take a while if you have a lot of contacts, so do not get disconnected from your weServer during the sync.</string>
     <string name="sync_contacts_message">Contact Sync will import your contacts from a desired location. \n\nYou can sync your contacts with either your computer or the ones on your phone.</string>
     <string name="sync_contacts_message_permission">Make sure that Terminal has access to your Contacts (like Accessibility) in System Preferences, or the Sync will not work.</string>
@@ -235,9 +235,9 @@
     <string name="toggle_unblocked_contacts">Show Unblocked Contacts</string>
     <string name="unsupported_attachments">Unsupported Attachments</string>
     <string name="update_log">What\'s New</string>
-    <string name="version_11_update"><![CDATA[<b>Version 1.1</b>]]> adds Contact Sync! To sync the contacts on your computer with weMessage, go into your weMessage Settings.
+    <string name="version_11_update"><![CDATA[<b>Version 1.1</b>]]> adds Contact Sync! To sync the contacts on your computer with ryMessage, go into your ryMessage Settings.
         \n\nIn addition, you are now able to view certain message effects.</string>
-    <string name="version_12_update"><![CDATA[<b>Version 1.2</b>]]> adds SMS and MMS messaging! If SMS Mode is not enabled, you can turn it on in your weMessage Settings.
+    <string name="version_12_update"><![CDATA[<b>Version 1.2</b>]]> adds SMS and MMS messaging! If SMS Mode is not enabled, you can turn it on in your ryMessage Settings.
         \n\nOther new features include Contact Sync with the contacts on your phone, a Contact List screen, Failover IP Addresses, revamped notifications, and much more!</string>
     <string name="video_gallery_error">An error occurred while saving this to your video library.</string>
     <string name="video_gallery_exists">This video already exists in your video library.</string>
