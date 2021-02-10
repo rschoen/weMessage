@@ -124,11 +124,11 @@
 
         <receiver
             android:name=".app.sms.receivers.SmsSent"
-            android:taskAffinity="scott.wemessage.SMS_SENT"/>
+            android:taskAffinity="com.rschoen.rymessage.SMS_SENT"/>
 
         <receiver
             android:name=".app.sms.receivers.SmsDelivered"
-            android:taskAffinity="scott.wemessage.SMS_DELIVERED"/>
+            android:taskAffinity="com.rschoen.rymessage.SMS_DELIVERED"/>
 
         <receiver
             android:name=".app.sms.receivers.MmsSent"
